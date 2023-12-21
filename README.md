@@ -22,6 +22,7 @@
 - Symfony
 - Slim
 - jQuery
+- Laravel
 
 **Databases**
 - MySQL
@@ -45,4 +46,6 @@
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-lazar01/) 
 [![Follow me on Facebook](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/victoria.elena.127/) 
 [![Email me](https://img.shields.io/badge/Email-Drop%20Me%20a%20Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.elena01@yahoo.com)
+
+
 

@@ -47,5 +47,6 @@
 [![Follow me on Facebook](https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/victoria.elena.127/) 
 [![Email me](https://img.shields.io/badge/Email-Drop%20Me%20a%20Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.elena01@yahoo.com)
 
+<img src="https://github.com/Victoria-ElenaLazar/Victoria-ElenaLazar/blob/main/Certificate%20of%20Completion%20PHP%20Backend%20Developer.jpg" alt="Certificate of completion.PHP Backend Developer" width="500">
 
 
